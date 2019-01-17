@@ -7,4 +7,4 @@ Check the code below:
 
 <script src="https://gist.github.com/ArunBollam/73139429ca9ff31173fa0f2ae8629498.js"></script>
 
-<a href = "/docs/index.html"> Checkout this link </a> 
+<a href = "/Deep-Learning-for-Self-Driving/docs/index.html"> Checkout this link </a> 
